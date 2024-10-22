@@ -21,6 +21,6 @@ def image_to_text(image_path, note_path):
         print("Error occurred:", str(e))
 
 # Usage example
-image_path = 'your_image_path.png'  # Replace with your image path
+image_path = 'C:\Users\sammy\OneDrive\Pictures\Screenshots'  # Replace with your image path
 note_path = 'extracted_text_note.txt'  # Path where you want to save the note
 image_to_text(image_path, note_path)
